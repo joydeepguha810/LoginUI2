@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IBMvYKBsLMI+LNPdfA6SVDXCJA+f9Eg77/j5MIDJb3/qzCcTtn3B6am8jLBGzHm/f/XDcmqOt9ZujRF4vGTAxg==",
+  "dgSpecHash": "pFnP2JCNyqL2lSP7KmJKvLI1rMgYcVK/LySHTawEzo8G2+YL0t3bTem25AuzbsWC6DSYxlF4dIPJFHZyYw5NBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj",
+  "projectFilePath": "c:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joyde\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\joyde\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",

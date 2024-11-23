@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj": {}
+    "c:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj": {
+    "c:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj",
+        "projectUniqueName": "c:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj",
         "projectName": "LoginUI",
-        "projectPath": "C:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj",
+        "projectPath": "c:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\LoginUI.csproj",
         "packagesPath": "C:\\Users\\joyde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\obj\\",
+        "outputPath": "c:\\Users\\joyde\\.vscode\\LoginUI\\LoginUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joyde\\AppData\\Roaming\\NuGet\\NuGet.Config"
